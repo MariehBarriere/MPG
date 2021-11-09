@@ -1,2 +1,0 @@
-# MPG
- Mon petit graphisme
